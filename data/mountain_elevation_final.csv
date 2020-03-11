@@ -1,0 +1,511 @@
+,State,Mountain_Name,Elevation,Latitude,Longitude
+0,Alabama,Cheaha Mountain  ,726,33.486,-85.809
+1,Alabama,Talladega Mountain,715,33.458,-85.812
+2,Alabama,Odum Point,714,33.416,-85.831
+3,Alabama,Hernandez Peak,703,33.458,-85.813
+4,Alabama,Bald Rock,696,33.495,-85.808
+5,Alabama,Parker High Point,667,33.416,-85.825
+6,Alabama,Big Caney Head,648,33.413,-85.834
+7,Alabama,McDill Point,648,33.454,-85.822
+8,Alabama,Rock Garden,636,33.482,-85.815
+9,Alabama,Morton Hill,628,33.693,-85.739
+10,Alaska,Denali  ,6194,63.069,-151.006
+11,Alaska,South Peak,6186,63.069,-151.006
+12,Alaska,Churchill Peaks,6186,63.069,-151.006
+13,Alaska,Farthing Horn,6034,63.072,-151.002
+14,Alaska,Carter Horn,6031,63.068,-150.999
+15,Alaska,North Peak,5920,63.097,-151.005
+16,Alaska,Archdeacons Tower,5859,63.074,-151.02
+17,Alaska,Denali Pass,5571,63.083,-151.028
+18,Alaska,Mount Saint Elias  ,5510,60.293,-140.93
+19,Alaska,Mount Foraker  ,5270,62.961,-151.398
+20,Arizona,Humphreys Peak  ,3829,35.346,-111.678
+21,Arizona,Agassiz Peak  ,3756,35.326,-111.678
+22,Arizona,San Francisco Mountain,3739,35.341,-111.683
+23,Arizona,Fremont Peak  ,3644,35.323,-111.661
+24,Arizona,Aubineau Peak,3603,35.355,-111.66
+25,Arizona,Rees Peak,3491,35.356,-111.652
+26,Arizona,Doyle Peak  ,3489,35.33,-111.646
+27,Arizona,Mount Baldy  ,3472,33.906,-109.563
+28,Arizona,Baldy Peak,3472,33.906,-109.563
+29,Arizona,Doyle Saddle,3463,35.323,-111.672
+30,Arkansas,Magazine Mountain  ,838,35.167,-93.645
+31,Arkansas,Signal Hill,838,35.167,-93.645
+32,Arkansas,Mossback Ridge,827,35.167,-93.629
+33,Arkansas,Poteau Mountain,812,34.963,-94.374
+34,Arkansas,Black Fork Mountain,811,34.712,-94.368
+35,Arkansas,Blue Mountain,796,34.686,-94.048
+36,Arkansas,Cameron Bluff,775,35.173,-93.643
+37,Arkansas,House Gap,775,35.165,-93.64
+38,Arkansas,Poteau Mountain,771,34.962,-94.369
+39,Arkansas,Rich Mountain,764,34.67,-94.31
+40,California,Mount Whitney  ,4412,36.578,-118.292
+41,California,Sierra Nevada  ,4400,36.579,-118.293
+42,California,Mount Williamson  ,4384,36.656,-118.311
+43,California,North Palisade  ,4348,37.094,-118.514
+44,California,White Mountain Peak  ,4338,37.634,-118.256
+45,California,White-Inyo Range,4336,37.634,-118.256
+46,California,Crooks Peak,4328,36.574,-118.291
+47,California,Mount Sill  ,4312,37.096,-118.504
+48,California,Mount Shasta  ,4303,41.409,-122.195
+49,California,Mount Russell  ,4281,36.59,-118.291
+50,Colorado,Mount Elbert  ,4396,39.118,-106.445
+51,Colorado,Mount Harvard  ,4391,38.924,-106.321
+52,Colorado,Mount Massive  ,4385,39.187,-106.475
+53,Colorado,La Plata Peak  ,4369,39.029,-106.473
+54,Colorado,Uncompahgre Peak  ,4359,38.072,-107.462
+55,Colorado,Blanca Peak  ,4354,37.577,-105.486
+56,Colorado,Continental Mountains,4351,39.634,-105.817
+57,Colorado,Grays Peak  ,4349,39.634,-105.818
+58,Colorado,Front Range  ,4349,39.634,-105.818
+59,Colorado,Mount Lincoln  ,4348,39.351,-106.111
+60,Connecticut,Bear Mountain  ,708,42.045,-73.455
+61,Connecticut,Round Mountain  ,695,42.049,-73.476
+62,Connecticut,Gridley Mountain  ,668,42.04,-73.467
+63,Connecticut,Bradford Mountain,598,41.99,-73.293
+64,Connecticut,Bald Peak,588,42.012,-73.465
+65,Connecticut,Bald Mountain,539,42.027,-73.217
+66,Connecticut,Mount Riga,534,41.995,-73.469
+67,Connecticut,Stone Man Mountain,525,41.957,-73.283
+68,Connecticut,East Bald Mountain,519,42.03,-73.199
+69,Connecticut,Thorpe Mountain,518,41.991,-73.488
+70,Delaware,Horseshoe Hill,101,39.792,-75.664
+71,Delaware,Iron Hill  ,101,39.639,-75.752
+72,Delaware,Chestnut Hill,89,39.651,-75.77
+73,Delaware,Drummond Hill,87,39.713,-75.71
+74,Delaware,Sandy Bray,52,39.628,-75.778
+75,Delaware,Sandy Brae,34,39.628,-75.762
+76,Delaware,Holly Island,25,39.776,-75.577
+77,Delaware,Bohemia Manor,19,39.483,-75.769
+78,Delaware,Cherry Island,16,39.73,-75.517
+79,Delaware,Wilson Hill,15,38.711,-75.478
+80,Florida,Britton Hill  ,105,30.989,-86.282
+81,Florida,Falling Water Hill,97,30.731,-85.535
+82,Florida,High Hill  ,96,30.731,-85.485
+83,Florida,Sugarloaf Mountain  ,94,28.649,-81.733
+84,Florida,Danley Hill,93,30.974,-86.195
+85,Florida,Sandy Mountain,90,30.663,-86.284
+86,Florida,Pleasant Ridge,90,30.845,-85.98
+87,Florida,Iron Mountain  ,88,27.937,-81.577
+88,Florida,Mud Hill,87,30.617,-85.62
+89,Florida,Orange Hill,87,30.669,-85.515
+90,Georgia,Brasstown Bald  ,1448,34.874,-83.811
+91,Georgia,Rabun Bald  ,1431,34.966,-83.3
+92,Georgia,Dicks Knob,1409,34.985,-83.522
+93,Georgia,Wolfpen Ridge  ,1379,34.863,-83.809
+94,Georgia,Blood Mountain  ,1355,34.74,-83.937
+95,Georgia,Bear Gap,1351,34.991,-83.52
+96,Georgia,Tray Mountain  ,1347,34.801,-83.684
+97,Georgia,Little Bald Mountain,1345,34.884,-83.809
+98,Georgia,Hightower Bald  ,1338,34.983,-83.62
+99,Georgia,Slaughter Mountain  ,1317,34.748,-83.95
+100,Hawaii,Pu‘uwēkiu  ,4199,19.821,-155.468
+101,Hawaii,Pu‘ukea,4173,19.825,-155.469
+102,Hawaii,Mauna Loa Summit Cairn,4161,19.479,-155.602
+103,Hawaii,Pu‘uhau‘oki,4160,19.826,-155.472
+104,Hawaii,Pu‘upoli‘ahu,4150,19.821,-155.481
+105,Hawaii,Mauna Kea  ,4147,19.824,-155.471
+106,Hawaii,Mauna Loa  ,4115,19.472,-155.592
+107,Hawaii,Pu‘uhaukea,4097,19.813,-155.472
+108,Hawaii,1949 Cone,4087,19.456,-155.605
+109,Hawaii,1940 Cone,4060,19.462,-155.601
+110,Idaho,Borah Peak  ,3855,44.137,-113.781
+111,Idaho,Leatherman Peak  ,3716,44.082,-113.733
+112,Idaho,Pioneer Mountains,3639,43.749,-114.131
+113,Idaho,Hyndman Peak  ,3639,43.749,-114.131
+114,Idaho,Diamond Peak  ,3634,44.142,-113.084
+115,Idaho,Standhope Peak  ,3616,43.785,-114.025
+116,Idaho,The Devils Bedstead,3612,43.799,-114.152
+117,Idaho,Castle Peak  ,3601,44.04,-114.586
+118,Idaho,White Cloud Peaks  ,3593,44.04,-114.586
+119,Idaho,Boulder Mountains  ,3566,43.902,-114.409
+120,Illinois,Charles Mound  ,376,42.504,-90.24
+121,Illinois,Benton Mound,367,42.397,-90.049
+122,Illinois,Hudson Mound,356,42.477,-90.178
+123,Illinois,Mound Sumner,356,42.467,-90.142
+124,Illinois,Squirrel Grove Mound,355,42.496,-90.148
+125,Illinois,Scales Mound,355,42.467,-90.272
+126,Illinois,Simmons Mound,327,42.363,-89.981
+127,Illinois,Williams Hill,324,37.582,-88.476
+128,Illinois,Horseshoe Mound,324,42.404,-90.395
+129,Illinois,Pea Ridge,319,42.443,-90.183
+130,Indiana,Hoosier Hill  ,382,40,-84.851
+131,Indiana,Hells Point,333,41.716,-85.013
+132,Indiana,Sand Hill  ,327,41.514,-85.225
+133,Indiana,Weed Patch Hill  ,322,39.167,-86.217
+134,Indiana,Diamond Hill,317,41.445,-85.522
+135,Indiana,Paradise Point,317,41.734,-84.848
+136,Indiana,The Knob  ,313,41.652,-85.354
+137,Indiana,Bearwallow Hill,313,39.251,-86.216
+138,Indiana,Limekiln Ridge,312,39.156,-86.229
+139,Indiana,Baby Mountain,310,41.463,-85.248
+140,Iowa,Hawkeye Point  ,509,43.46,-95.709
+141,Iowa,Ocheyedan Mound,491,43.403,-95.521
+142,Iowa,Pikes Point,448,43.416,-95.152
+143,Iowa,Pilot Knob,443,43.253,-93.553
+144,Iowa,Wheelers Beach,439,43.358,-95.147
+145,Iowa,Lime Kiln Point,438,43.358,-95.148
+146,Iowa,Des Moines Beach,437,43.377,-95.134
+147,Iowa,Maywood Beach,435,43.352,-95.149
+148,Iowa,Pillsbury Point,434,43.367,-95.141
+149,Iowa,Gilleys Beach,433,43.362,-95.143
+150,Kansas,Mount Sunflower  ,1230,39.022,-102.037
+151,Kansas,Rock Hill,1185,38.79,-101.973
+152,Kansas,Horsethief Draw,1128,39.049,-101.939
+153,Kansas,Salt Grass Canyon,1126,39.04,-101.923
+154,Kansas,Clough Valley,1125,39.826,-102.002
+155,Kansas,Pasture Number Eighteen,1119,37.149,-102.03
+156,Kansas,Stateline Pasture,1119,37.006,-102.017
+157,Kansas,Unit One Pasture,1118,37.107,-102.038
+158,Kansas,Meyers Draw,1118,39.046,-101.907
+159,Kansas,Pasture Number Fortyseven,1116,37.208,-102.034
+160,Kentucky,Black Mountain  ,1259,36.914,-82.894
+161,Kentucky,Big Ridge,1227,36.918,-82.9
+162,Kentucky,Grassy Gap,1215,36.916,-82.888
+163,Kentucky,Sugar Gap,1185,36.918,-82.909
+164,Kentucky,Rockhouse Ridge,1174,36.9,-82.935
+165,Kentucky,Yellow Buck Spur,1160,36.902,-82.933
+166,Kentucky,Potato Hill,1123,36.887,-82.888
+167,Kentucky,Garrison Gap,1098,36.912,-82.901
+168,Kentucky,Little Black Mountain,1063,36.841,-83.075
+169,Kentucky,Low Gap,1022,36.891,-82.878
+170,Louisiana,Driskill Mountain  ,162,32.425,-92.897
+171,Louisiana,Gentry Hill,147,32.41,-92.898
+172,Louisiana,Jordan Mountain,146,32.398,-92.926
+173,Louisiana,Delaney Mount,139,32.93,-93.747
+174,Louisiana,Mossy Hill,138,32.458,-92.955
+175,Louisiana,Duncan Hill,129,32.895,-93.258
+176,Louisiana,Bull Hill,127,32.832,-93.277
+177,Louisiana,Giddens Hill,124,32.559,-93.528
+178,Louisiana,Eagle Hill  ,115,31.4,-93.284
+179,Louisiana,Negro Foot Hill,113,31.404,-92.973
+180,Maine,Mount Katahdin  ,1603,45.904,-68.921
+181,Maine,Baxter Peak,1603,45.904,-68.921
+182,Maine,South Peak,1594,45.902,-68.917
+183,Maine,Pamola,1495,45.906,-68.906
+184,Maine,Knife Edge,1491,45.905,-68.906
+185,Maine,Chimney Peak,1489,45.905,-68.906
+186,Maine,Hamlin Peak  ,1446,45.924,-68.929
+187,Maine,Howe Peaks,1431,45.933,-68.924
+188,Maine,York Valley,1427,45.9,-68.933
+189,Maine,Table Land,1375,45.908,-68.934
+190,Maryland,Hoye-Crest  ,1027,39.237,-79.485
+191,Maryland,Roth Rock,979,39.266,-79.456
+192,Maryland,Wild Turkey Rock,978,39.428,-79.259
+193,Maryland,Pheasant Ridge,977,39.428,-79.259
+194,Maryland,Allegheny Heights,972,39.333,-79.379
+195,Maryland,Conneway Hill,970,39.305,-79.413
+196,Maryland,Eagle Rock,952,39.415,-79.279
+197,Maryland,Marsh Hill,948,39.549,-79.369
+198,Maryland,Roman Nose Hill,919,39.511,-79.329
+199,Maryland,Roman Nose Mountain,916,39.47,-79.378
+200,Massachusetts,Mount Greylock  ,1063,42.637,-73.166
+201,Massachusetts,Saddle Ball Mountain  ,985,42.622,-73.185
+202,Massachusetts,Greylock Range,947,42.633,-73.166
+203,Massachusetts,Mount Fitch  ,945,42.656,-73.16
+204,Massachusetts,Mount Williams  ,901,42.668,-73.158
+205,Massachusetts,Crum Hill  ,867,42.711,-73.02
+206,Massachusetts,Berlin Mountain  ,852,42.692,-73.286
+207,Massachusetts,Blackpoll Mountain,840,42.721,-73.041
+208,Massachusetts,Spruce Mountain,826,42.705,-73.006
+209,Massachusetts,Mount Prospect,816,42.663,-73.183
+210,Michigan,Mount Arvon  ,601,46.756,-88.155
+211,Michigan,Mount Curwood  ,601,46.703,-88.24
+212,Michigan,Summit Mountain,571,46.45,-87.63
+213,Michigan,Underwood Hill,570,46.651,-89.817
+214,Michigan,Sheridan Hill,560,46.027,-88.706
+215,Michigan,Government Peak,560,46.783,-89.731
+216,Michigan,Wolf Mountain,553,46.442,-89.771
+217,Michigan,Porcupine Peak,530,46.689,-89.85
+218,Michigan,Mount Zion,525,46.477,-90.168
+219,Michigan,Indian Point,523,46.199,-89.392
+220,Minnesota,Eagle Mountain  ,702,47.897,-90.561
+221,Minnesota,Lima Mountain  ,679,47.987,-90.404
+222,Minnesota,Brule Mountain,678,47.93,-90.447
+223,Minnesota,Pine Mountain,667,47.895,-90.326
+224,Minnesota,Misquah Hills  ,659,47.983,-90.55
+225,Minnesota,Kelso Mountain,640,47.919,-90.931
+226,Minnesota,Stony Tower Hill,629,47.604,-91.435
+227,Minnesota,Peabody Hill,614,47.47,-91.608
+228,Minnesota,Moose Mountain,612,48.107,-90.146
+229,Minnesota,Stony Point,600,44.122,-96.12
+230,Mississippi,Woodall Mountain  ,244,34.788,-88.242
+231,Mississippi,Lebanon Mountain,242,34.571,-88.729
+232,Mississippi,Tippah Hills,228,34.611,-88.73
+233,Mississippi,Wicker Mountain,224,34.788,-88.946
+234,Mississippi,Crum Mountain,221,34.86,-88.733
+235,Mississippi,Kitchen Mountain,221,34.609,-88.719
+236,Mississippi,Barnett Knob,219,34.743,-88.291
+237,Mississippi,Bonds Mountain,218,34.892,-88.218
+238,Mississippi,Geeville Mountain,217,34.576,-88.704
+239,Mississippi,Hamer Hill,214,34.858,-89.239
+240,Missouri,Taum Sauk Mountain  ,540,37.571,-90.729
+241,Missouri,Wildcat Mountain  ,536,37.568,-90.755
+242,Missouri,Buford Mountain,531,37.697,-90.689
+243,Missouri,Lead Hill,529,37.101,-92.637
+244,Missouri,Russell Mountain  ,526,37.573,-90.695
+245,Missouri,Bell Mountain,519,37.626,-90.866
+246,Missouri,Proffit Mountain,519,37.569,-90.781
+247,Missouri,Ketcherside Mountain  ,515,37.524,-90.669
+248,Missouri,Hogan Mountain  ,512,37.52,-90.715
+249,Missouri,Keyger Mountain,508,36.992,-92.851
+250,Montana,Granite Peak  ,3891,45.163,-109.808
+251,Montana,Beartooth Mountains  ,3869,45.163,-109.808
+252,Montana,Castle Mountain  ,3842,45.099,-109.63
+253,Montana,Mount Wood  ,3838,45.275,-109.813
+254,Montana,Whitetail Peak  ,3821,45.089,-109.588
+255,Montana,Silver Run Peak  ,3803,45.121,-109.545
+256,Montana,Tempest Mountain  ,3791,45.167,-109.792
+257,Montana,Castle Rock Mountain  ,3785,45.098,-109.654
+258,Montana,Mount Peal  ,3778,45.161,-109.773
+259,Montana,Beartooth Mountain  ,3763,45.061,-109.569
+260,Nebraska,Panorama Point  ,1653,41.011,-104.03
+261,Nebraska,Hogback Mountain,1545,41.666,-103.732
+262,Nebraska,Mount Edna,1533,42.291,-103.864
+263,Nebraska,Lovers Leap Butte,1500,41.522,-103.747
+264,Nebraska,Table Top Mountain,1465,41.543,-103.603
+265,Nebraska,Lone Pine Butte,1464,41.444,-103.513
+266,Nebraska,Pants Butte,1449,42.741,-103.811
+267,Nebraska,Eagle Nest,1446,41.767,-104.015
+268,Nebraska,South Bluff,1433,41.821,-103.714
+269,Nebraska,The Horseshoe,1426,42.083,-103.726
+270,Nevada,Boundary Peak  ,4002,37.846,-118.351
+271,Nevada,Wheeler Peak  ,3960,38.986,-114.313
+272,Nevada,Jeff Davis Peak,3891,38.989,-114.297
+273,Nevada,South Summit,3637,38.752,-116.927
+274,Nevada,North Schell Peak  ,3614,39.413,-114.599
+275,Nevada,Baker Peak,3612,38.97,-114.317
+276,Nevada,Pyramid Peak,3607,38.949,-114.295
+277,Nevada,North Summit Mount Jefferson,3601,38.795,-116.927
+278,Nevada,Charleston Peak  ,3600,36.273,-115.695
+279,Nevada,Arc Dome  ,3590,38.832,-117.353
+280,New Hampshire,Mount Washington  ,1916,44.27,-71.303
+281,New Hampshire,White Mountains  ,1909,44.271,-71.304
+282,New Hampshire,Mount Adams  ,1759,44.32,-71.291
+283,New Hampshire,Agiocochook Crag,1746,44.279,-71.291
+284,New Hampshire,Mount Jefferson  ,1741,44.305,-71.318
+285,New Hampshire,Mount Clay  ,1684,44.286,-71.316
+286,New Hampshire,Mount Sam Adams,1682,44.322,-71.3
+287,New Hampshire,Bigelow Lawn,1679,44.262,-71.307
+288,New Hampshire,Boott Spur  ,1664,44.252,-71.295
+289,New Hampshire,Mount Monroe  ,1641,44.256,-71.322
+290,New Jersey,Kittatinny Mountain,551,41.321,-74.662
+291,New Jersey,High Point  ,548,41.321,-74.662
+292,New Jersey,Sunrise Mountain  ,503,41.218,-74.72
+293,New Jersey,Mount Tammany  ,465,40.969,-75.111
+294,New Jersey,Rattlesnake Mountain  ,453,41.132,-74.863
+295,New Jersey,Hamburg Mountains  ,449,41.152,-74.514
+296,New Jersey,Wawayanda Mountain  ,448,41.198,-74.457
+297,New Jersey,Bearfort Mountain  ,447,41.14,-74.392
+298,New Jersey,Bowling Green Mountain,420,41.008,-74.55
+299,New Jersey,Bearfort Mountain,415,41.142,-74.387
+300,New Mexico,Wheeler Peak  ,4012,36.557,-105.417
+301,New Mexico,Mount Walter  ,3996,36.562,-105.414
+302,New Mexico,Old Mike Peak,3989,36.546,-105.407
+303,New Mexico,Middle Truchas Peak,3976,35.972,-105.65
+304,New Mexico,Truchas Peak  ,3975,35.963,-105.645
+305,New Mexico,North Truchas Peak,3956,35.979,-105.632
+306,New Mexico,Simpson Peak  ,3953,36.549,-105.414
+307,New Mexico,Lake Fork Peak,3929,36.55,-105.445
+308,New Mexico,State Line Peak,3918,36.996,-105.296
+309,New Mexico,Chimayosos Peak,3908,35.975,-105.609
+310,New York,Mount Marcy  ,1626,44.113,-73.924
+311,New York,Algonquin Peak  ,1555,44.144,-73.987
+312,New York,Mount Haystack  ,1497,44.106,-73.9
+313,New York,Mount Skylight  ,1495,44.099,-73.931
+314,New York,Dix Mountain  ,1473,44.082,-73.786
+315,New York,Iroquois Peak  ,1472,44.137,-73.998
+316,New York,Boundary Peak,1471,44.14,-73.994
+317,New York,Basin Mountain  ,1468,44.121,-73.886
+318,New York,Whiteface Mountain  ,1466,44.366,-73.903
+319,New York,Gray Peak  ,1463,44.111,-73.935
+320,North Carolina,Mount Marcy  ,1626,44.113,-73.924
+321,North Carolina,Algonquin Peak  ,1555,44.144,-73.987
+322,North Carolina,Mount Haystack  ,1497,44.106,-73.9
+323,North Carolina,Mount Skylight  ,1495,44.099,-73.931
+324,North Carolina,Dix Mountain  ,1473,44.082,-73.786
+325,North Carolina,Iroquois Peak  ,1472,44.137,-73.998
+326,North Carolina,Boundary Peak,1471,44.14,-73.994
+327,North Carolina,Basin Mountain  ,1468,44.121,-73.886
+328,North Carolina,Whiteface Mountain  ,1466,44.366,-73.903
+329,North Carolina,Gray Peak  ,1463,44.111,-73.935
+330,North Dakota,Black Butte,1056,46.398,-103.448
+331,North Dakota,White Butte  ,1053,46.387,-103.302
+332,North Dakota,Sentinel Butte,1045,46.871,-103.835
+333,North Dakota,Camel Butte,1037,46.003,-103.72
+334,North Dakota,Post Office Butte,1027,46.24,-103.678
+335,North Dakota,Bullion Butte,1020,46.681,-103.597
+336,North Dakota,West Rainy Butte,1020,46.496,-103.046
+337,North Dakota,Square Butte,1020,46.867,-103.697
+338,North Dakota,Slide Butte,1019,46.39,-103.384
+339,North Dakota,Rattlesnake Butte,1013,46.365,-103.294
+340,Ohio,Campbell Hill  ,471,40.37,-83.72
+341,Ohio,Mount Miserable,453,40.356,-83.695
+342,Ohio,Bristol Ridge,442,40.341,-83.645
+343,Ohio,Round Knob,437,40.672,-80.672
+344,Ohio,Bald Knob,434,40.291,-83.695
+345,Ohio,Hulse Hill,433,40.389,-82.709
+346,Ohio,Ralston Knob,430,40.78,-82.637
+347,Ohio,Connecting Ridge,423,39.67,-80.916
+348,Ohio,Sugarloaf,422,41.4,-81.104
+349,Ohio,Long Ridge,420,39.698,-80.892
+350,Oklahoma,Robbers Roost Peak,1362,36.944,-102.932
+351,Oklahoma,Blacksmith Canyon,1343,36.993,-103
+352,Oklahoma,Layton Canyon,1336,36.873,-103.011
+353,Oklahoma,Road Canyon,1312,36.96,-102.933
+354,Oklahoma,Coopers Arroyo,1308,36.961,-102.948
+355,Oklahoma,Road Canyon,1306,36.95,-102.936
+356,Oklahoma,Pat Canyon,1299,36.987,-102.846
+357,Oklahoma,Pat Canyon,1293,36.995,-102.837
+358,Oklahoma,Sand Canyon,1291,36.995,-102.832
+359,Oklahoma,Burrows Canyon,1290,36.927,-102.892
+360,Oregon,Mount Hood  ,3425,45.373,-121.696
+361,Oregon,Mount Jefferson  ,3189,44.674,-121.8
+362,Oregon,Triangle Moraine,3168,45.37,-121.699
+363,Oregon,South Sister,3152,44.104,-121.77
+364,Oregon,Three Sisters  ,3152,44.104,-121.77
+365,Oregon,Devils Kitchen,3133,45.37,-121.699
+366,Oregon,Hodge Crest,3053,44.1,-121.764
+367,Oregon,Middle Sister  ,3051,44.148,-121.784
+368,Oregon,North Sister,3039,44.166,-121.773
+369,Oregon,Steel Cliff,2995,45.367,-121.698
+370,Pennsylvania,Negro Mountain  ,978,39.786,-79.177
+371,Pennsylvania,Mount Davis  ,978,39.786,-79.177
+372,Pennsylvania,Baughman Rocks,961,39.793,-79.171
+373,Pennsylvania,Blue Knob  ,953,40.288,-78.562
+374,Pennsylvania,Glade Mountain,936,39.79,-79.203
+375,Pennsylvania,Herman Point  ,920,40.298,-78.572
+376,Pennsylvania,Ringer Hill,903,39.738,-79.197
+377,Pennsylvania,Shelter Rocks,903,39.773,-79.169
+378,Pennsylvania,Maust Hill,901,39.729,-79.2
+379,Pennsylvania,Schaefer Head  ,900,40.322,-78.559
+380,Rhode Island,Jerimoth Hill  ,247,41.849,-71.779
+381,Rhode Island,Durfee Hill,244,41.892,-71.744
+382,Rhode Island,Whites Hill,240,41.877,-71.775
+383,Rhode Island,Pine Hill,235,41.881,-71.76
+384,Rhode Island,Benson Mountain,226,41.992,-71.796
+385,Rhode Island,Mount Hygeia  ,224,41.852,-71.761
+386,Rhode Island,Chopmist Hill,223,41.841,-71.67
+387,Rhode Island,Badger Mountain,221,41.981,-71.771
+388,Rhode Island,Sprague Hill,217,41.904,-71.729
+389,Rhode Island,Pray Hill,216,41.856,-71.739
+390,South Carolina,Sassafras Mountain  ,1081,35.065,-82.777
+391,South Carolina,Hickorynut Mountain,1063,35.05,-82.766
+392,South Carolina,Pinnacle Mountain  ,1041,35.034,-82.742
+393,South Carolina,Coldbranch Mountain,1016,35.097,-82.675
+394,South Carolina,Slicking Mountain,1013,35.093,-82.697
+395,South Carolina,Rock Mountain,1003,35.042,-82.774
+396,South Carolina,Saluda Mountains  ,992,35.156,-82.527
+397,South Carolina,Fork Mountain,988,34.993,-83.08
+398,South Carolina,Caesars Head Mountain,980,35.106,-82.628
+399,South Carolina,Battered Rock Mountain,980,35.093,-82.682
+400,South Dakota,Harney Peak  ,2198,43.866,-103.531
+401,South Dakota,Odakota Mountain,2196,43.923,-103.754
+402,South Dakota,Green Mountain,2186,43.95,-103.769
+403,South Dakota,Bear Mountain  ,2185,43.87,-103.744
+404,South Dakota,Crooks Tower,2173,44.156,-103.919
+405,South Dakota,Terry Peak  ,2150,44.328,-103.836
+406,South Dakota,Crows Nest Peak,2147,44.055,-103.963
+407,South Dakota,White Tail Peak,2123,44.119,-103.835
+408,South Dakota,Copper Mountain,2111,43.937,-103.741
+409,South Dakota,Flag Mountain,2110,44.071,-103.827
+410,Tennessee,Clingmans Dome  ,2023,35.563,-83.498
+411,Tennessee,Mount Le Conte  ,2010,35.654,-83.437
+412,Tennessee,High Top,2004,35.654,-83.437
+413,Tennessee,Cliff Top,1993,35.654,-83.444
+414,Tennessee,Myrtle Point,1964,35.654,-83.432
+415,Tennessee,Mount Chapman  ,1958,35.687,-83.271
+416,Tennessee,Mount Love,1954,35.567,-83.491
+417,Tennessee,West Point,1931,35.655,-83.453
+418,Tennessee,Roan High Knob,1916,36.105,-82.122
+419,Tennessee,Mount Kephart  ,1895,35.631,-83.39
+420,Texas,Guadalupe Peak  ,2657,31.891,-104.861
+421,Texas,Guadalupe Mountains  ,2657,31.891,-104.861
+422,Texas,Bush Mountain  ,2626,31.93,-104.88
+423,Texas,Shumard Peak,2621,31.908,-104.874
+424,Texas,Bartlett Peak,2590,31.918,-104.882
+425,Texas,Baldy Peak,2537,30.635,-104.173
+426,Texas,Blue Ridge,2522,31.943,-104.881
+427,Texas,Hunter Peak,2517,31.913,-104.83
+428,Texas,Mount Livermore  ,2492,30.633,-104.167
+429,Texas,El Capitan  ,2458,31.877,-104.858
+430,Utah,Kings Peak  ,4122,40.776,-110.373
+431,Utah,South Kings Peak  ,4116,40.766,-110.378
+432,Utah,Gilbert Peak  ,4095,40.823,-110.34
+433,Utah,Mount Emmons  ,4090,40.712,-110.303
+434,Utah,Mount Lovenia,4020,40.757,-110.607
+435,Utah,Tokewanna Peak,4016,40.81,-110.624
+436,Utah,Wasatch,4010,40.783,-110.624
+437,Utah,Mount Powell  ,4009,40.796,-110.425
+438,Utah,Wilson Peak,3968,40.776,-110.462
+439,Utah,Squaw Peak,3919,40.701,-110.643
+440,Vermont,Mount Mansfield  ,1337,44.544,-72.814
+441,Vermont,The Chin,1337,44.544,-72.814
+442,Vermont,Killington Peak  ,1288,43.605,-72.82
+443,Vermont,Adams Apple,1256,44.546,-72.81
+444,Vermont,Camels Hump  ,1239,44.32,-72.886
+445,Vermont,Mount Ellen  ,1234,44.16,-72.929
+446,Vermont,The Nose,1229,44.526,-72.815
+447,Vermont,Mount Abraham  ,1207,44.12,-72.936
+448,Vermont,Pico Peak  ,1203,43.64,-72.836
+449,Vermont,Lincoln Mountain,1199,44.154,-72.929
+450,Virginia,Mount Rogers  ,1746,36.66,-81.545
+451,Virginia,Whitetop Mountain  ,1684,36.639,-81.605
+452,Virginia,Pine Mountain,1684,36.657,-81.521
+453,Virginia,Buzzard Rock,1553,36.635,-81.617
+454,Virginia,Haw Orchard Mountain,1526,36.63,-81.51
+455,Virginia,Cabin Ridge,1517,36.631,-81.528
+456,Virginia,Elk Garden Ridge,1514,36.655,-81.571
+457,Virginia,Beech Mountain,1513,36.636,-81.626
+458,Virginia,Brier Ridge,1511,36.632,-81.55
+459,Virginia,Stone Mountain,1503,36.671,-81.476
+460,Washington,Columbia Crest,4395,46.853,-121.76
+461,Washington,Cascade Range  ,4392,46.853,-121.76
+462,Washington,Mount Rainier  ,4392,46.853,-121.76
+463,Washington,West Crater,4377,46.852,-121.761
+464,Washington,East Crater,4336,46.852,-121.758
+465,Washington,Point Success,4302,46.846,-121.768
+466,Washington,Liberty Cap,4295,46.863,-121.775
+467,Washington,Russell Cliff,3950,46.864,-121.76
+468,Washington,Gibraltar Rock,3863,46.846,-121.745
+469,Washington,Mount Adams  ,3745,46.203,-121.491
+470,West Virginia,Spruce Mountain  ,1482,38.7,-79.533
+471,West Virginia,Allegheny Mountains  ,1482,38.7,-79.533
+472,West Virginia,Spruce Knob  ,1482,38.7,-79.533
+473,West Virginia,Bald Knob  ,1476,38.448,-79.931
+474,West Virginia,Mount Porte Crayon  ,1452,38.929,-79.456
+475,West Virginia,Back Allegheny Mountain  ,1442,38.49,-79.902
+476,West Virginia,Roaring Plains,1441,38.929,-79.424
+477,West Virginia,Red Spruce Knob,1434,38.327,-80.154
+478,West Virginia,Beech Flat Knob,1433,38.497,-79.97
+479,West Virginia,Snyder Knob,1432,38.537,-79.964
+480,Wisconsin,Timms Hill  ,591,45.451,-90.195
+481,Wisconsin,Lookout Mountain,586,45.401,-89.483
+482,Wisconsin,Rib Mountain  ,585,44.921,-89.695
+483,Wisconsin,Harrison Hills,584,45.421,-89.508
+484,Wisconsin,Sugarbush Hill,583,45.558,-88.813
+485,Wisconsin,Pearson Hill,576,45.448,-90.178
+486,Wisconsin,Mount Whittlesey,571,46.301,-90.617
+487,Wisconsin,East Hill,565,45.558,-88.888
+488,Wisconsin,Military Hill,560,46.067,-89.079
+489,Wisconsin,Baldy Hill,554,45.437,-89.413
+490,Wyoming,Gannett Peak  ,4207,43.184,-109.654
+491,Wyoming,Grand Teton  ,4200,43.741,-110.802
+492,Wyoming,Fremont Peak  ,4177,43.125,-109.618
+493,Wyoming,Turret Peak  ,4147,43.165,-109.619
+494,Wyoming,Doublet Peak  ,4143,43.163,-109.63
+495,Wyoming,Mount Helen  ,4128,43.151,-109.631
+496,Wyoming,Mount Sacagawea  ,4119,43.137,-109.625
+497,Wyoming,Dinwoody Peak,4115,43.164,-109.632
+498,Wyoming,Jackson Peak  ,4114,43.119,-109.603
+499,Wyoming,Bastion Peak  ,4103,43.206,-109.665
+500,DC,Point Reno,123,38.952,-77.076
+501,DC,Mount Saint Alban,116,38.931,-77.071
+502,DC,Mount Alto,107,38.924,-77.075
+503,DC,Camp Hill,85,38.922,-77.067
+504,DC,Good Hope Hill,83,38.868,-76.962
+505,DC,Mount Hamilton,71,38.909,-76.975
+506,DC,Bunker Hill,71,38.935,-76.988
+507,DC,Soapstone Valley,65,38.948,-77.065
+508,DC,Lees Hill,63,38.913,-77.066
+509,DC,Round Hill,61,38.926,-76.989

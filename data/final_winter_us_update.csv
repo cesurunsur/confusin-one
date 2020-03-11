@@ -1,0 +1,194 @@
+﻿athlete_id,Athlete,Team,City,State,Lat,Long
+1,Alice McKennis,Alpine,Minturn,Colorado,39.5864,-106.4309
+2,Breezy Johnson,Alpine,Jackson Hole,Wyoming,43.4799,-110.7624
+3,Bryce Bennett,Alpine,Tahoe City,California,39.1677,-120.1452
+4,Jacqueline Wiles,Alpine,Portland,Oregon,45.5051,-122.675
+5,Laurenne Ross,Alpine,Bend,Oregon,44.0582,-121.3153
+6,Mikaela Shiffrin,Alpine,Edwards,Colorado,39.5764,-106.7235
+7,Steven Nyman,Alpine,Jackson Hole,Wyoming,43.4799,-110.7624
+8,Ted Ligety,Alpine,Park City,Utah,40.6461,-111.498
+9,Tommy Ford,Alpine,Bend,Oregon,44.0582,-121.3153
+10,Travis Ganong,Alpine,Tahoe City,California,39.1677,-120.1452
+11,AJ Hurt,Alpine,Carnelian Bay,California,39.2269,-120.0819
+12,Alice Merryweather,Alpine,Hingham,Massachusetts,42.2418,-70.8898
+13,Ben Ritchie,Alpine,Waitsfield,Vermont,44.1926,-72.7798
+14,Brian McLaughlin,Alpine,Waitsfield,Vermont,44.1926,-72.7798
+15,Jared Goldberg,Alpine,Holladay,Utah,40.6688,-111.8247
+16,Keely Cashman,Alpine,Strawberry,California,38.1983,-120.0094
+17,Kyle Negomir,Alpine,Littleton,Colorado,39.6133,-105.0166
+18,Luke Winters,Alpine,Gresham,Oregon,45.5099,-122.4348
+19,Nina O’Brien,Alpine,Denver,Colorado,39.7392,-104.9903
+20,Paula Moltzan,Alpine,Burlington,Vermont,44.4759,-73.2121
+21,River Radamus,Alpine,Edwards,Colorado,39.5764,-106.7235
+22,Ryan Cochran-Siegle,Alpine,Starksboro,Vermont,44.2273,-73.0573
+23,Sam Morse,Alpine,Sugarloaf,Maine,45.0314,-70.3131
+24,Abi Jewett,Alpine,Ripton,Vermont,43.9737,-73.034
+25,Bridger Gile,Alpine,Aspen,Colorado,39.1911,-106.8175
+26,Cooper Cornelius,Alpine,Glenwood Springs,Colorado,39.5505,-107.3248
+27,Galena Wardle,Alpine,Aspen,Colorado,39.1911,-106.8175
+28,George Steffey,Alpine,Springfield,New Hampshire,43.4951,-72.0334
+29,Katie Hensien,Alpine,Park City,Utah,40.6461,-111.498
+30,Ainsley Proffit,Alpine,St. Louis,Missouri,38.627,-90.1994
+31,Alix Wilkinson,Alpine,Mammoth Lakes,California,37.6485,-118.9721
+32,Emma Resnick,Alpine,Vail,Colorado,39.6403,-106.3742
+33,Isaiah Nelson,Alpine,Wayzata,Minnesota,44.9741,-93.5066
+34,Jack Smith,Alpine,Sun Valley,Idaho,43.6971,-114.3517
+35,Jacob Dilling,Alpine,Vail,Colorado,39.6403,-106.3742
+36,Kellen Kinsella,Alpine,Edwards,Colorado,39.645,-106.5942
+37,Lauren Macuga,Alpine,Park City,Utah,40.6461,-111.498
+38,Zoe Zimmermann,Alpine,Gilford,New Hampshire,43.5476,-71.4067
+39,Aaron Blunck,Freeski,Crested Butte,Colorado,38.8697,-106.9878
+40,Abigale Hansen,Freeski,Bishop,California,37.3614,-118.3997
+41,Alex Ferreira,Freeski,Aspen,Colorado,39.1911,-106.8175
+42,Annalisa Drew,Freeski,Breckenridge,Colorado,39.4817,-106.0384
+43,Birk Irving,Freeski,Winter Park,Colorado,39.8917,-105.7631
+44,Brita Sigourney,Freeski,Park City,Utah,40.6461,-111.498
+45,Carly Margulies,Freeski,Mammoth Lakes,California,37.6485,-118.9721
+46,David Wise,Freeski,Reno,Nevada,39.5296,-119.8138
+47,Devin Logan,Freeski,Park City,Utah,40.6461,-111.498
+48,Hunter Hess,Freeski,Bend,Oregon,44.0582,-121.3153
+49,Lyman Currier,Freeski,Boulder,Colorado,40.015,-105.2705
+50,Taylor Seaton,Freeski,Avon,Colorado,39.6331,-106.5222
+51,Torin Yater-Wallace,Freeski,Basalt,Colorado,39.3689,-107.0328
+52,Alex Hall,Freeski,Park City,Utah,40.6461,-111.498
+53,Caroline Claire,Freeski,Manchester Center,Vermont,43.1637,-73.0723
+54,Colby Stevenson,Freeski,Park City,Utah,40.6461,-111.498
+55,Darian Stevens,Freeski,Park City,Utah,40.6461,-111.498
+56,Joss Christensen,Freeski,Park City,Utah,40.6461,-111.498
+57,Julia Krass,Freeski,Park City,Utah,40.6461,-111.498
+58,Kiernan Fagan,Freeski,Brownfield,Maine,43.9381,-70.9087
+59,Mac Forehand,Freeski,Winhall,Vermont,43.1558,-72.9133
+60,Maggie Voisin,Freeski,Whitefish,Montana,48.4106,-114.3353
+61,Nick Goepper,Freeski,Lawrenceburg,Indiana,39.0909,-84.85
+62,Willie Borm,Freeski,Chaska,Minnesota,44.7893,-93.6018
+63,Cassidy Jarrell,Freeski,Aspen,Colorado,39.1911,-106.8175
+64,Connor Ladd,Freeski,Lakewood,Colorado,39.7047,-105.0814
+65,Dylan Ladd,Freeski,Lakewood,Colorado,39.7047,-105.0814
+66,Hanna Faulhaber,Freeski,Carbondale,Colorado,39.4022,-107.2112
+67,Hunter Carey,Freeski,Winter Park,Colorado,39.8917,-105.7631
+68,Jaxin Hoerter,Freeski,Breckenridge,Colorado,39.4817,-106.0384
+69,Sammy Schuiling,Freeski,Steamboat Springs,Colorado,40.485,-106.8317
+70,Svea Irving,Freeski,Winter Park,Colorado,39.8917,-105.7631
+71,Cody LaPlante,Freeski,Truckee,California,39.328,-120.1833
+72,Deven Fagan,Freeski,Brownfield,Maine,43.9381,-70.9087
+73,Grace Henderson,Freeski,Madbury,New Hampshire,43.1693,-70.9239
+74,Hunter Henderson,Freeski,Madbury,New Hampshire,43.1693,-70.9239
+75,Marin Hamill,Freeski,Park City,Utah,40.6461,-111.498
+76,Rell Harwood,Freeski,Park City,Utah,40.6461,-111.498
+77,Richard Thomas,Freeski,Orono,Minnesota,44.9714,-93.6044
+78,Tyler Wallasch,Freeski,Mammoth Lakes,California,37.6485,-118.9721
+79,Whitney Gardner,Freeski,Salt Lake City,Utah,40.7608,-111.891
+80,Alex Bowen,Freestyle,Park City,Utah,40.6461,-111.498
+81,Ashley Caldwell,Freestyle,Park City,Utah,40.6461,-111.498
+82,Chris Lillis,Freestyle,Park City,Utah,40.6461,-111.498
+83,Eric Loughran,Freestyle,Park City,Utah,40.6461,-111.498
+84,Jonathon Lillis,Freestyle,Park City,Utah,40.6461,-111.498
+85,Justin Schoenefeld,Freestyle,Park City,Utah,40.6461,-111.498
+86,Kaila Kuhn,Freestyle,Park City,Utah,40.6461,-111.498
+87,Madison Varmette,Freestyle,Park City,Utah,40.6461,-111.498
+88,Megan Nick,Freestyle,Park City,Utah,40.6461,-111.498
+89,Megan Smallhouse,Freestyle,Park City,Utah,40.6461,-111.498
+90,Morgan Northrop,Freestyle,Park City,Utah,40.6461,-111.498
+91,Nicholas Novak,Freestyle,Park City,Utah,40.6461,-111.498
+92,Quinn Dehlinger,Freestyle,Park City,Utah,40.6461,-111.498
+93,Winter Vinecki,Freestyle,Park City,Utah,40.6461,-111.498
+94,Alex Lewis,Freestyle,Carlisle,Massachusetts,42.5293,-71.3495
+95,Avital Shimko,Freestyle,Park City,Utah,40.6461,-111.498
+96,Bradley Wilson,Freestyle,Park City,Utah,40.6461,-111.498
+97,Casey Andringa,Freestyle,Vail,Colorado,39.6403,-106.3742
+98,Emerson Smith,Freestyle,Park City,Utah,40.6461,-111.498
+99,Hannah Soar,Freestyle,Killington,Vermont,43.6776,-72.7798
+100,Jaelin Kauf,Freestyle,Salt Lake City,Utah,40.7608,-111.891
+101,Jesse Andringa,Freestyle,Park City,Utah,40.6461,-111.498
+102,Joel Hedrick,Freestyle,Park City,Utah,40.6461,-111.498
+103,Kai Owens,Freestyle,Vail,Colorado,39.6403,-106.3742
+104,Kenzie Radway,Freestyle,Steamboat Springs,Colorado,40.485,-106.8317
+105,Morgan Schild,Freestyle,Pittsford,New York,43.079,-77.5275
+106,Nessa Dziemian,Freestyle,Park City,Utah,40.6461,-111.498
+107,Nick Page,Freestyle,Park City,Utah,40.6461,-111.498
+108,Olivia Giaccio,Freestyle,Park City,Utah,40.6461,-111.498
+109,Sabrina Cass,Freestyle,Park City,Utah,40.6461,-111.498
+110,Tess Johnson,Freestyle,Vail,Colorado,39.6403,-106.3742
+111,Thomas Rowley,Freestyle,Park City,Utah,40.6461,-111.498
+112,Erik Bjornsen,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+113,Jessie Diggins,Cross Country,Afton,Minnesota,44.9027,-92.7835
+114,Rosie Brennan,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+115,Sadie Maubet Bjornsen,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+116,Simi Hamilton,Cross Country,Stratton Mountain,Vermont,43.1134,-72.9081
+117,Sophie Caldwell,Cross Country,Peru,Vermont,43.2298,-72.8979
+118,Caitlin Patterson,Cross Country,Craftsbury,Vermont,44.6367,-72.3726
+119,Hailey Swirbul,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+120,Julia Kern,Cross Country,Waltham,Massachusetts,42.3765,-71.2356
+121,Kevin Bolger,Cross Country,Sun Valley,Idaho,43.6971,-114.3517
+122,Scott Patterson,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+123,Benjamin Ogden,Cross Country,Landgrove,Vermont,43.2624,-72.8549
+124,Gus Schumacher,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+125,Hannah Halvorsen,Cross Country,Truckee,California,39.328,-120.1833
+126,Johnny Hagenbuch,Cross Country,Ketchum,Idaho,43.6807,114.3637
+127,Kendall Kramer,Cross Country,Fairbanks,Alaska,64.8378,-147.7164
+128,Luke Jager,Cross Country,Anchorage,Alaska,61.2181,-149.9003
+129,Noel Keeffe,Cross Country,Steamboat Springs,Colorado,40.485,-106.8317
+130,Novie McCabe,Cross Country,Winthrop,Washington,48.4779,-120.1862
+131,Zak Ketterson,Cross Country,Marquette,Michigan,46.5436,-87.3954
+132,Annika Belshaw,Ski Jumping,Steamboat,Colorado,40.485,-106.8317
+133,Casey Larson,Ski Jumping,Barrington,Illinois,42.1539,-88.1362
+134,Decker Dean,Ski Jumping,Steamboat Springs,Colorado,40.485,-106.8317
+135,Kevin Bickner,Ski Jumping,Wauconda,Illinois,42.2589,-88.1392
+136,Logan Sankey,Ski Jumping,Steamboat,Colorado,40.485,-106.8317
+137,Nina Lussi,Ski Jumping,Ljubljana,Slovenia,46.0569,14.5058
+138,Nita Englund,Ski Jumping,Florence,Wisconsin,45.9224,-88.252
+139,Sam Macuga,Ski Jumping,Park City,Utah,40.6461,-111.498
+140,Sarah Hendrickson,Ski Jumping,Park City,Utah,40.6461,-111.498
+141,Tara Geraghty-Moats,Ski Jumping,West Fairlee,Vermont,43.9092,-72.2629
+142,Ben Loomis,Nordic Combined,Eau Claire,Wisconsin,44.8113,-91.4985
+143,Grant Andrews,Nordic Combined,Steamboat Springs,Colorado,40.485,-106.8317
+144,Jared Shumate,Nordic Combined,Park City,Utah,40.6461,-111.498
+145,Jasper Good,Nordic Combined,Steamboat Springs,Colorado,40.485,-106.8317
+146,Stephen Schumann,Nordic Combined,Park City,Utah,40.6461,-111.498
+147,Tara Geraghty-Moats,Nordic Combined,West Fairlee,Vermont,43.9092,-72.2629
+148,Taylor Fletcher,Nordic Combined,Park City,Utah,40.6461,-111.498
+149,Arielle Gold,Snowboard,Breckenridge,Colorado,39.4817,-106.0384
+150,Chase Blackwell,Snowboard,Dillon,Colorado,39.6303,-106.0434
+151,Chase Josey,Snowboard,Hailey,Idaho,43.5196,-114.3153
+152,Chloe Kim,Snowboard,Torrance,California,33.8358,-118.3406
+153,Jake Pates,Snowboard,Eagle,Colorado,39.6553,-106.8287
+154,Maddie Mastro,Snowboard,Wrightwood,California,34.3608,-117.6334
+155,Ryan Wachendorfer,Snowboard,Vail,Colorado,39.6403,-106.3742
+156,Taylor Gold,Snowboard,Breckenridge,Colorado,39.4817,-106.0384
+157,Toby Miller,Snowboard,Mammoth Lakes,California,37.6485,-118.9721
+158,Chris Corning,Snowboard,Avon,Colorado,39.6331,-106.5222
+159,Hailey Langland,Snowboard,San Clemente,California,33.4274,-117.6126
+160,Jamie Anderson,Snowboard,Lake Tahoe,California,39.0968,-120.0324
+161,Judd Henkes,Snowboard,La Jolla,California,32.8328,-117.2713
+162,Julia Marino,Snowboard,Westport,Connecticut,41.1415,-73.3579
+163,Kyle Mack,Snowboard,West Bloomfield,Michigan,42.5679,-83.3733
+164,Luke Winkelmann,Snowboard,Blowing Rock,North Carolina,36.1351,-81.6776
+165,Lyon Farrell,Snowboard,Haiku,Hawaii,20.9175,-156.3258
+166,Red Gerard,Snowboard,Silverthorne,Colorado,39.6296,-106.0713
+167,Ryan Stassel,Snowboard,Anchorage,Alaska,61.2181,-149.9003
+168,Sean FitzSimons,Snowboard,Hood River,Oregon,45.7068,-121.5281
+169,Jack Coyne,Snowboard,Edwards,Colorado,39.5764,-106.7235
+170,Jason Wolle,Snowboard,Winter Park,Colorado,39.8917,-105.7631
+171,Lucas Foster,Snowboard,Telluride,Colorado,37.9375,-107.8123
+172,Tessa Maud,Snowboard,Carlsbad,California,33.1581,-117.3506
+173,Addie Gardner,Snowboard,Riegelsville,Pennsylvania,40.5943,-75.1955
+174,Courtney Rummel,Snowboard,West Bend,Wisconsin,43.4253,-88.1834
+175,Dusty Henricksen,Snowboard,Mammoth Lakes,California,37.6485,-118.9721
+176,Jade Thurgood,Snowboard,Salt Lake City,Utah,40.7608,-111.891
+177,Jake Canter,Snowboard,Evergreen,Colorado,39.6333,-105.3172
+178,Ty Schnorrbusch,Snowboard,Frisco,Colorado,39.5744,-106.0975
+179,Alex Deibold,Snowboard,Salt Lake City,Utah,40.7608,-111.891
+180,Faye Gulini,Snowboard,Salt Lake City,Utah,40.7608,-111.891
+181,Hagen Kearney,Snowboard,Silverthorne,Colorado,39.6296,-106.0713
+182,Jake Vedder,Snowboard,Pinckney,Michigan,42.4567,-83.9463
+183,Lindsey Jacobellis,Snowboard,Stratton Mountain,Vermont,43.1134,-72.9081
+184,Mick Dierdorff,Snowboard,Steamboat Springs,Colorado,40.485,-106.8317
+185,Nick Baumgartner,Snowboard,Iron River,Michigan,46.0927,-88.6424
+186,Nate Holland,Snowboard,Squaw Valley,California,39.197,-120.2357
+187,Rosie Mancari,Snowboard,Anchorage,Alaska,61.2181,-149.9003
+188,Senna Leith,Snowboard,Vail,Colorado,39.6403,-106.3742
+189,Livia Molodyh,Snowboard,Hubbard,Oregon,45.1823,-122.8079
+190,Meghan Tierney,Snowboard,Eagle,Colorado,39.6553,-106.8287
+191,Mikey LaCroix,Snowboard,Shrewsbury,Massachusetts,42.2959,-71.7128
+192,Stacy Gaskill,Snowboard,Golden,Colorado,39.7555,-105.2211
+193,"Aaron ""AJ"" Muss",Snowboard,Rumson,New Jersey,40.3721,-73.999
